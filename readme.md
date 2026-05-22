@@ -11,21 +11,7 @@ A multi-agent AI company research assistant built using CrewAI, LangChain, Chrom
 ---
 
 ## Architecture
-User Query
-↓
-Web Search Tool
-↓
-RAG Pipeline
-↓
-Vector Database
-↓
-Research Agent
-↓
-Analysis Agent
-↓
-Writer Agent
-↓
-Executive Report
+User Query -> Web Search Tool -> RAG Pipeline -> Vector Database -> Research Agent -> Analysis Agent -> Writer Agent -> Executive Report
 ---
 
 ## Example Workflow
